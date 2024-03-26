@@ -1,0 +1,13 @@
+{
+  "name": "De_Mol_BackEnd",
+  "version": "1.0.0",
+  "description": "Application to find The Mol!",
+  "main": "index.js",
+  "repository": "https://github.com/LukaDeserranno/De_Mol_BackEnd.git",
+  "author": "Luka Deserranno <luka.deserranno@student.hogent.be>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "koa": "^2.15.2"
+  }
+}
